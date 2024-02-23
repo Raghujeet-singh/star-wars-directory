@@ -25,7 +25,7 @@ Installation
 1.Clone the repository:
 
 Open git bash terminal and type this code
-git clone https://github.com/your-username/star wars directory.git
+git clone (https://github.com/Raghujeet-singh/star-wars-directory.git)
 
 2.Install dependencies:
 
