@@ -29,8 +29,7 @@ git clone https://github.com/your-username/star wars directory.git
 
 2.Install dependencies:
 
-Open git bash terminal and type this code
-cd star
+Open git bash terminal and type this code:
 npm install
 
 3.Start the development server:
