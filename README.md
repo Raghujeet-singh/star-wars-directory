@@ -1,59 +1,33 @@
-# Star Wars
+# STAR WARS
+  - A web app that fetches data from The Starwars API and displays lists of characters, starship, films and planets made with react
 
-well-documented README :
+## Features:
+  - Displays characters, people, starships and films info of Star wars
+  - Datas are fetched asynchronously from star wars api
+  - Initial Loading
+  - Datas are stored as cached data in the site
+  - Very fast to load all datas
+  - Pagination feature
+## Installation:
+   1.Clone the Repository:
+       git clone https://github.com/your-username/your-repository.git
 
-Project Name: star wars directory
+       
+   2.Install Dependencies:
+       cd your-repository
+       npm install
 
-Description:
-The star wars directory is an interactive web application that serves as a comprehensive guide to the Star Wars universe. It provides users with information on characters, planets, species, vehicles, and more from the iconic Star Wars franchise.
+   3.Usage:
+      Start the Application:
+         npm start
 
-Features
-Search Functionality: Users can search for specific characters, planets, species, vehicles, or any other elements of the Star Wars universe.
 
-Detailed Information: Each entry includes detailed information such as descriptions, images, affiliations, and key facts about the selected element.
 
-Random Content Generator: Users can explore random content to discover new elements from the Star Wars universe.
 
-Favorite List: Users can save their favorite elements to a personal list for easy access later.
-
-Technologies Used
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-Data: Utilizing the Star Wars API (SWAPI) for retrieving information about Star Wars elements.
-
-Installation
-1.Clone the repository:
-
-Open git bash terminal and type this code
-git clone (https://github.com/Raghujeet-singh/star-wars-directory.git)
-
-2.Install dependencies:
-
-Open git bash terminal and type this code:
-npm install
-
-3.Start the development server:
-
-npm start
-
-#Usage
-Open the application in your web browser.
-
-Use the search bar to search for specific elements or explore random content.
-
-Click on an element to view detailed information.
-
-Add elements to your favorites list by clicking on the "Add to Favorites" button.
-
-Contributing
-Contributions are welcome! If you would like to contribute to the project, please follow these steps:
-
-#Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-
-Push to the branch (git push origin feature-branch).
-
-Create a new Pull Request.
+## Contribution:
+      1.Fork the repository.
+      2.Create a new branch (git checkout -b feature-branch).
+      3.Make your changes.
+      4.Commit your changes (git commit -am 'Add new feature').
+      5.Push to the branch (git push origin feature-branch).
+      6.Create a new Pull Request.
