@@ -10,14 +10,18 @@
   - Pagination feature
 ## Installation:
    1.Clone the Repository:
+   
              -git clone https://github.com/your-username/your-repository.git
 
        
    2.Install Dependencies:
+   
              -cd your-repository
+             
              -npm install
 
    3.Usage:
+   
              Start the Application:
              -npm start
 
