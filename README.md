@@ -38,9 +38,13 @@ npm start
 
 #Usage
 Open the application in your web browser.
+
 Use the search bar to search for specific elements or explore random content.
+
 Click on an element to view detailed information.
+
 Add elements to your favorites list by clicking on the "Add to Favorites" button.
+
 Contributing
 Contributions are welcome! If you would like to contribute to the project, please follow these steps:
 
